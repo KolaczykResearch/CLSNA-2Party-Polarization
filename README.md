@@ -1,5 +1,5 @@
 # CLSNA-2Party-Polarization
-This repository contains code and data supporting the text "Disentangling positive and negative partisanship in affective polarization using a coevolving latent space network with attractors model": 
+This repository contains code and data supporting the article "Disentangling positive and negative partisanship in affective polarization using a coevolving latent space network with attractors model": 
 
 [https://arxiv.org/abs/2109.13129](https://arxiv.org/abs/2109.13129)
 
