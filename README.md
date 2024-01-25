@@ -7,7 +7,7 @@ This repository contains code and data supporting the article "Disentangling pos
 
 Data used for analysis are 1) Twitter congressional hashtag networks; 2) Reddit comment networks. 
 
-They are stored as R binary files (.RData). Data will be publicly available later, upon publication, in `Data/`. 
+They are stored as R binary files (.RData), available in `Data/`. 
 
 ## Code
 The corresponding code to conduct both simulation and analyses on real data sets is provided in `Code/`.
